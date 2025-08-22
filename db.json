@@ -1,5 +1,27 @@
 
 {
+  "slider": [
+    {
+      "id": 1,
+      "img": "https://thumbs.static-thomann.de/thumb//txteaser1000--67e6c7748598425b87fd9684c251c549/pics/cms/image/teasertool/en/15182/rode_nt1_a.jpg?d=bDZPdmZDdUREVDlFUTlCcDhubVZBWVlNcEExSFBFOFgrYlMxcVVxaWh6VHA1VEIxTjZ5Z0VTSlJJNTFkeWoxS1plVkJ2YkhxNktORGNOVHpTaVdOUi9YYk5wM3NpbG50UU53S1d0WnNTWE9jelBLVTEwNVovSTlxdXp0dnpRcUFCYU5wRkpaL3hwejdzOTk2Ly8xeVhkVERyY3R6dWVVeG1Idm9wK01RanV1TmduQTFnYXBaRkszdDJ2TllqTzlvalgvSWhrcmliUmxTcVEveXIreDZDZ3MvQmpvNEtNNHhHT3FGLytUcjBVUVpWdVhJZytHRWxHR2Mydk51dVZ4U0VZcHpKRmFCL0pyZDNMbEV6OFdlUFZ2MExEQ2plM095WTV4bDVTaHJSbTZTQjJzTjN6QnhsUmU1VGM2WFp6Y0M%3D"
+    },
+    {
+      "id": 2,
+      "img": "https://thumbs.static-thomann.de/thumb/thumb1000x/pics/cms/image/teasertool/en/15182/thomann_back_2_school_en.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://thumbs.static-thomann.de/thumb//txteaser1000--59bfd9354f81966013be5ebade79cfb3/pics/cms/image/teasertool/en/15182/custom_shop_querfloeten.jpg?d=bDZPdmZDdUREVCtTcDRRbFI2eDFPajlXak5HMDB0NTZEa1diN05wYmpkc1FHVGdrM0t2ODlwWlNIT01YWjNtdEg2ZncraWlkVDROQlJHcURERXBpaUdxUEh1d1Q1YTFHRlNnVVg4QWg2OWx2NUIzMndYUVJFL0MwWmNOTlczTUFNSTVkSzBsTm5Fc1ExNERocDkzRUhScEJDazJqcEYrUE1nMk1QelgrT2lvUFRNbUYveXdZNmxzNXFHRVRmTXUwZW9yVTJlQlBEbWxWdll2c1ZGOHpvVFpieUtCV3BqQUhFeVVET3VBdGpwQ0kwWHpaNzZhTXpsU2FySjVlNGhsZWlFQWNlSWxlMVJ5b2dZcmJvOUgvOVdHU3FVVVJOK09uMXdLU3JHazVxUHVPZHExcWlJT2NQdllTWndXWE16UVU%3D"
+    },
+    {
+      "id": 4,
+      "img": "https://thumbs.static-thomann.de/thumb//txteaser1000--35a4119a8e4076946db084928d14d9e0/pics/cms/image/teasertool/en/15182/soundboks_lightboks.jpg?d=bDZPdmZDdUREVC91QzAvZlM0VlQrWG1UaFM2emg5UjQwQjhLNlk5S3VJYnA1VEIxTjZ5Z0VTSlJJNTFkeWoxS1plVkJ2YkhxNktORGNOVHpTaVdOUi9YYk5wM3NpbG50UU53S1d0WnNTWE9jelBLVTEwNVovR2ZlcVlxakExYlRxaE55RzF3OXFYaC9LZTB0RzVwYTVLVDVLRFhvSWhOOWpZSndOWUdxV1JTMjBjaTArRW5OOEkxL3lJWks0bTBaR3hTZFk4ZkRsRUFMUHdZNk9Dak9NUmpxaGYvazY5RkVHVmJseUlQaGhKUjhPeVNmc1JUVmlCR0tjeVJXZ2Z5YTNkeTVSTS9GbmoxYjlDd3dvM3R6c21PY1plVW9hMFp1RkRKcjJMcldzUHRNT1NjdFliNGxtQT09"
+    },
+    {
+      "id": 5,
+      "img": "https://thumbs.static-thomann.de/thumb//txteaser1000--3292993e02a5970c046a2ab84b59750d/pics/cms/image/teasertool/en/15182/electric_basses_topseller.jpg?d=bDZPdmZDdUREVCt3eUlTQjJRampYYWlCaXR1ajBmLzFXVE9HWWxvanZIQjVrNFV1czRmVWVQdEgyR2pyM25FREQ5ei9Sdk1kQ1lJVSthMnRNMW9hL1FKazFRdUNuVVVRQlVxaGhoMVRVN25aNTl2U3o3RHZjbGtta2ExTmN4TUsrN1BmZXYvOWNsM1V3NjNMYzdubE1aaDc2S2ZqRUk3cmpZSndOWUdxV1JTcHJiTW5ZWmdwaGZaREhXQktNK05xVXFrUDhxL3NlZ29MUHdZNk9Dak9NUmpxaGYvazY5RkVHVmJseUlQaGhKUjhPeVNmc1JUVmlCR0tjeVJXZ2Z5YTNkeTVSTS9GbmoxYjlDd3dvM3R6c21PY1plVW9hMFp1a2dkckRkOHdjWlVYdVUzT2wyYzNBZz09"
+    }
+  ],
   "ownWordSlider": [
     {
       "id" : 1,
