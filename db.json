@@ -2177,7 +2177,8 @@
         "salesUnit": "1 piece(s)",
         "polarPattern": "Cardioid",
         "itemNumber": 363450,
-        "onOffSwitch": "No",
+        "onOffSwitch": "No"
+      },
         "availability": "in_stock",
         "rating": 4.7,
         "reviews_count": 134,
